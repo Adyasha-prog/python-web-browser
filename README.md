@@ -42,6 +42,10 @@ python-web-browser/
 └── README.md
 ```
 
+## Screenshot
+
+![Python Web Browser](browser-screenshot.png)
+
 ## Author
 
 Adyasha-prog
